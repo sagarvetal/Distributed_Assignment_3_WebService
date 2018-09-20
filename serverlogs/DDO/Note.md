@@ -1,0 +1,1 @@
+All server logs for DDO location will be stored here.
